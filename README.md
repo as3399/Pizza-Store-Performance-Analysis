@@ -67,4 +67,11 @@ The goal was to design an **ETL pipeline**, calculate business KPIs, and build a
 ---
 
 ## 🔗 Live Dashboard / Portfolio Link
-👉 [View Project Here](YOUR_PORTFOLIO_OR_POWERBI_LINK)
+👉 [View Project Here](---
+
+## 📌 How to Use
+1. Clone this repository.  
+2. Open `PIZZA_SALES_SQL_QUERIES.txt` to review data transformation steps.  
+4. Open `PowerBI_Dashboard.pbix` in Power BI Desktop to explore the interactive report.  
+
+
