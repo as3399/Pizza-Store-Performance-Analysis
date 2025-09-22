@@ -56,3 +56,15 @@ The goal was to design an **ETL pipeline**, calculate business KPIs, and build a
 - Business KPI Calculation  
 - Data Visualization (Power BI)  
 - Dashboard Storytelling  
+
+---
+
+## 📌 How to Use
+1. Clone this repository.  
+2. Open `SQL_Scripts.sql` to review data transformation steps.  
+3. Open `PowerBI_Dashboard.pbix` in Power BI Desktop to explore the interactive report.  
+
+---
+
+## 🔗 Live Dashboard / Portfolio Link
+👉 [View Project Here](YOUR_PORTFOLIO_OR_POWERBI_LINK)
