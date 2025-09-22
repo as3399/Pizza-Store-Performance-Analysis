@@ -64,11 +64,6 @@ The goal was to design an **ETL pipeline**, calculate business KPIs, and build a
 2. Open `Sql_queries.txt` to review data transformation steps.  
 3. Open `PowerBI_Dashboard.pbix` in Power BI Desktop to explore the interactive report.  
 
----
 
-## 📌 How to Use
-1. Clone this repository.  
-2. Open `PIZZA_SALES_SQL_QUERIES.txt` to review data transformation steps.  
-4. Open `PowerBI_Dashboard.pbix` in Power BI Desktop to explore the interactive report.  
 
 
